@@ -40,7 +40,7 @@ Data Layer (PostgreSQL + Redis)
 
 1. **Clone and setup:**
 ```bash
-git clone https://github.com/your-org/url-shortener.git
+git clone https://github.com/NtohnwiBih/url-shortener.git
 cd url-shortener
 cp .env.example .env
 ```
